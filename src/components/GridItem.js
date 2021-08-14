@@ -143,7 +143,7 @@ export default class GridItem extends React.Component {
                                         </p>
                                     )}
                                     {content && (
-                                        <div
+                                        <div/hi
                                             className={classNames('item__copy', {
                                                 'text-center': contentAlignX === 'center',
                                                 'text-right': contentAlignX === 'right'
